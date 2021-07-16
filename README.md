@@ -1,6 +1,6 @@
 # SHIP-HATS Architecture Diagram
 
-[ship archi](images/ship-archi.png)
+[ship archi](/ship-archi.png)
 
 - GSIB - Government Standard Image Build 
 - SOE - Standard ICT Operating Environment 
