@@ -1,8 +1,3 @@
-# SHIP-HATS Architecture Diagram
+# SHIP-HATS
 
-![ship archi](/ship-archi.png)
-
-- GSIB - Government Standard Image Build 
-- SOE - Standard ICT Operating Environment 
-- VPC - Virtual Private Cloud 
-- TGW - Transit Gateway 
+Give an overview of SHIP-HATS as a product here.
