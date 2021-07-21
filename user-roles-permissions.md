@@ -1,6 +1,6 @@
 # User Roles and Permissions
  
-<a href="https://www.developer.tech.gov.sg/singapore-government-tech-stack/toolchain/overview.html">SHIP-HATS</a> tenants are managed through subscriptions. Following are the roles and permissions available to agencies and vendors within the SHIP-HATS web portal.
+ [SHIP-HATS](https://www.developer.tech.gov.sg/singapore-government-tech-stack/toolchain/overview.html) tenants are managed through subscriptions. Following are the roles and permissions available to agencies and vendors within the SHIP-HATS web portal.
  
 1. **Subscription Administrator (SA)** - Each subscription is managed by SA. Only an agency user can be assigned as a SA and there can be up to two SAs per subscription. By default, a SA has all the rights in a subscription.
  
